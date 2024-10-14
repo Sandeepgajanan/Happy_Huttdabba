@@ -19,7 +19,7 @@ body {
 }
 
 .text1 {
-  font-size: 2rem;
+  font-size: 3rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -28,7 +28,7 @@ body {
 }
 
 .text2 {
-  font-size: 1.5rem;
+  font-size: 3rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -37,7 +37,7 @@ body {
 }
 
 .hbd-chatbox {
-  font-size: 1.2rem;
+  font-size: 2.5rem;
   color: #333333;
   background: rgba(255, 255, 255, 0.9);
   padding: 1vw;
@@ -64,7 +64,7 @@ body {
 }
 
 .idea {
-  font-size: 1rem;
+  font-size: 3rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -136,7 +136,7 @@ body {
 }
 
 .wish-hbd {
-  font-size: 2.5rem;
+  font-size: 3rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   position: absolute;
   top: 50%;
@@ -146,7 +146,7 @@ body {
 }
 
 .finaltext {
-  font-size: 1.3rem;
+  font-size: 3rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -167,14 +167,14 @@ body {
 
 @media screen and (min-width: 320px) and (max-width: 480px) {
   .text1 {
-    font-size: 1.3rem;
-   text-transform: uppercase;
+    font-size: 2rem;
    text-align: center;
-   line-height: 1;
+
   }
 
   .text2 {
-    font-size: 1.3rem;
+    font-size: 2rem;
+    text-align: center;
   }
 
   .hbd-chatbox {
@@ -238,15 +238,16 @@ body {
   }
 
   .wish-hbd {
-    font-size: 1.6rem;
+    font-size: 3rem;
+    text-align: center;
   }
 
   .finaltext {
-    font-size: 1.4rem;
+    font-size: 2rem;
     text-align: center;
   }
 
   .finalgift img {
-    width: 40vw;
+    width: 50vw;
   }
 }
